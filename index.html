@@ -53,16 +53,19 @@
   <!--评论插件-->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="./js/md5.js"></script>
   <script>
       const gitalk = new Gitalk({
       clientID: '9f59bfa6a14143c32f84',
       clientSecret: '4883afeb506301d00d70394f6cc811547205f0e2',
       repo: 'kamipuroWiki',
       owner: 'kamipuroWiki',
-      admin: ['hsp878','kamipuroWiki'],
+      admin: ['hsp878','kamipuroWiki','shimits12138','lustboy37'],
+      id: md5(location.href),
       // facebook-like distraction free mode
       distractionFreeMode: false
-    })
+    });
+    gitalk.render('gitalk-container')
   </script>
 </body>
 </html>
