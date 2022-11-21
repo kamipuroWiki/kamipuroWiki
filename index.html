@@ -32,6 +32,11 @@
       coverpage: true, // 开启封面
       onlyCover: true,
       homepage: 'home.md',
+      timeUpdater: {
+        text: "<div align='center' width='200px' style='color:gray;font-size:15px'>-------------- 最后更新时间:&emsp;{docsify-updated} --------------</div>",
+        formatUpdated: "{YYYY}/{MM}/{DD}",
+        whereToPlace: "top",  // "top" or "bottom", default to "bottom"
+      },
       // 搜索框的完整配置参数
       search: {
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
@@ -61,7 +66,8 @@
   <!--评论插件-->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-corner/dist/docsify-corner.js"></script>
+  <script src="./js/docsify-corner.js"></script>
+  <script src="./js/time-updater.js"></script>
   <script>
       const gitalk = new Gitalk({
       clientID: '9f59bfa6a14143c32f84',
