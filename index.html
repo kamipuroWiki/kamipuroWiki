@@ -15,7 +15,15 @@
   <script>
       window.$docsify = {
       name: '<a href="#/version"><img src="images/evething_over.jpg"></img></a>',
-      repo: 'https://github.com/kamipuroWiki/kamipuroWiki',
+      repo:'true', // set the docsify show the corner
+      corner: {
+        // the icon link url to another site
+        url: "https://github.com/kamipuroWiki/kamipuroWiki",
+        // the default preset icon in docsify-corner
+        icon: "./images/noooo.jpg",
+        width: 50,
+        height: 50
+      },
       loadSidebar: true, // 增加：自动加载侧边栏
       mergeNavbar: true, //小屏设备导航栏移动至目录
       subMaxLevel: 4, // 生成目录的最大层级
@@ -53,6 +61,7 @@
   <!--评论插件-->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-corner/dist/docsify-corner.js"></script>
   <script>
       const gitalk = new Gitalk({
       clientID: '9f59bfa6a14143c32f84',
