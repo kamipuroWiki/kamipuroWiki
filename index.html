@@ -7,13 +7,11 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="./css/vue.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <link rel="stylesheet" href="./css/default.css">
 </head>
 <body>
   <div id="app"></div>
-  <!--评论插件-->
-  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
   <script>
       window.$docsify = {
       name: '<a href="#/version"><img src="images/evething_over.jpg"></img></a>',
@@ -45,7 +43,18 @@
         crossChapterText: true,
       }
     }
-    const gitalk = new Gitalk({
+  </script>
+  <!-- Docsify v4 -->
+  <script src="./js/docsify@4.js"></script>
+  <!--搜索插件-->
+  <script src="./js/search.js"></script>
+  <!--分页插件-->
+  <script src="./js/docsify-pagination.js"></script>
+  <!--评论插件-->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+      const gitalk = new Gitalk({
       clientID: '9f59bfa6a14143c32f84',
       clientSecret: '4883afeb506301d00d70394f6cc811547205f0e2',
       repo: 'kamipuroWiki',
@@ -55,11 +64,5 @@
       distractionFreeMode: false
     })
   </script>
-  <!-- Docsify v4 -->
-  <script src="./js/docsify@4.js"></script>
-  <!--搜索插件-->
-  <script src="./js/search.js"></script>
-  <!--分页插件-->
-  <script src="./js/docsify-pagination.js"></script>
 </body>
 </html>
