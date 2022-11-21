@@ -7,12 +7,11 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="./css/vue.css">
-  <link rel="stylesheet" href="./css/gitalk.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
   <link rel="stylesheet" href="./css/default.css">
 </head>
 <body>
   <div id="app"></div>
-  <script src="./js/gitalk.min.js"></script>
   <script>
       window.$docsify = {
       name: '<a href="#/version"><img src="images/evething_over.jpg"></img></a>',
@@ -33,6 +32,15 @@
         noData: '未检索到结果',
         depth: 1,// 搜索标题的最大层级, 1 - 6
         hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+      },
+      pagination: {
+        previousText: '上一章节',
+        // or
+        nextText: {
+          '/': '下一章节'
+        },
+        crossChapter: true,
+        crossChapterText: true,
       }
     }
     const gitalk = new Gitalk({
@@ -44,10 +52,15 @@
       // facebook-like distraction free mode
       distractionFreeMode: false
     })
+    gitalk.render('gitalk-container')
   </script>
   <!-- Docsify v4 -->
   <script src="./js/docsify@4.js"></script>
   <!--搜索插件-->
   <script src="./js/search.js"></script>
+  <!--分页插件-->
+  <script src="./js/docsify-pagination.js"></script>
+  <!--评论插件-->
+  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 </body>
 </html>

@@ -9,7 +9,7 @@
 
 
 
-- 个人向全神姬测评（by <font color=red>Reynol</font>）
+- 神姬入坑指北（by <font color=red>Reynol</font>）
 - 非客观神姬攻略（未实装）
 - and more...（有没有想写攻略的苦力？）
 
