@@ -1,7 +1,7 @@
 <!-- 侧边栏 kamihimeProject/_sidebar.md -->
 - [<font size=3>神姬入坑指北 （<font color=red>By Reynol</font>）</font>](/hime/all.md)
 - **<font color=orange>入门篇</font>**
-  - [我该如何开局](/hime/start.md)
+  - [我该如何开局](/hime/start.html)
   - [S级英灵简评](/hime/spirits.md)
   - [武器词条详解](/hime/arms.md)
   - [如何发展](/hime/howToPay.md)  
