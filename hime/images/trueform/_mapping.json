@@ -1,0 +1,149 @@
+[
+  {
+    "index": 1,
+    "name": "フルーレティ［神想真化］",
+    "nameRow": 1,
+    "row1": 2,
+    "file": "01.png"
+  },
+  {
+    "index": 2,
+    "name": "メタトロン［神想真化］",
+    "nameRow": 13,
+    "row1": 14,
+    "file": "02.png"
+  },
+  {
+    "index": 3,
+    "name": "ハデス［神想真化］",
+    "nameRow": 25,
+    "row1": 26,
+    "file": "03.png"
+  },
+  {
+    "index": 4,
+    "name": "アテナ［神想真化］",
+    "nameRow": 37,
+    "row1": 38,
+    "file": "04.png"
+  },
+  {
+    "index": 5,
+    "name": "タナトス［神想真化］",
+    "nameRow": 49,
+    "row1": 50,
+    "file": "05.png"
+  },
+  {
+    "index": 6,
+    "name": "妲己［神想真化］",
+    "nameRow": 61,
+    "row1": 62,
+    "file": "06.png"
+  },
+  {
+    "index": 7,
+    "name": "ヴィシュヌ［神想真化］",
+    "nameRow": 73,
+    "row1": 74,
+    "file": "07.png"
+  },
+  {
+    "index": 8,
+    "name": "ユースティティア［神想真化］",
+    "nameRow": 85,
+    "row1": 86,
+    "file": "08.png"
+  },
+  {
+    "index": 9,
+    "name": "アーシラト[神想真化]",
+    "nameRow": 97,
+    "row1": 98,
+    "file": "09.jpg"
+  },
+  {
+    "index": 10,
+    "name": "クー・フーリン［神想真化］",
+    "nameRow": 109,
+    "row1": 110,
+    "file": "10.jpg"
+  },
+  {
+    "index": 11,
+    "name": "アマテラス［神想真化］",
+    "nameRow": 121,
+    "row1": 122,
+    "file": "11.png"
+  },
+  {
+    "index": 12,
+    "name": "アモン［神想真化］",
+    "nameRow": 133,
+    "row1": 134,
+    "file": "12.png"
+  },
+  {
+    "index": 13,
+    "name": "アルテミス［神想真化］",
+    "nameRow": 145,
+    "row1": 146,
+    "file": "13.jpg"
+  },
+  {
+    "index": 14,
+    "name": "バアル［神想真化］",
+    "nameRow": 157,
+    "row1": 158,
+    "file": "14.jpg"
+  },
+  {
+    "index": 15,
+    "name": "キュベレー［神想真化］",
+    "nameRow": 169,
+    "row1": 170,
+    "file": "15.jpg"
+  },
+  {
+    "index": 16,
+    "name": "ニケ［神想真化］",
+    "nameRow": 181,
+    "row1": 182,
+    "file": "16.jpg"
+  },
+  {
+    "index": 17,
+    "name": "ミネルヴァ[神化覚醒]",
+    "nameRow": 194,
+    "row1": 195,
+    "file": "17.jpg"
+  },
+  {
+    "index": 18,
+    "name": "イシス[神化覚醒]",
+    "nameRow": 204,
+    "row1": 205,
+    "file": "18.png"
+  },
+  {
+    "index": 19,
+    "name": "カーリー[神化覚醒]",
+    "nameRow": 214,
+    "row1": 215,
+    "file": "19.png"
+  },
+  {
+    "index": 20,
+    "name": "女媧[神化覚醒]",
+    "nameRow": 224,
+    "row1": 225,
+    "file": "20.png"
+  },
+  {
+    "index": 21,
+    "name": "ユピテル[神化覚醒]",
+    "nameRow": 234,
+    "row1": 235,
+    "file": "21.png"
+  }
+]

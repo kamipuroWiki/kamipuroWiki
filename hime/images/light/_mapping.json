@@ -1,0 +1,212 @@
+[
+  {
+    "index": 1,
+    "name": "［福音の雫］光天獄カタス",
+    "nameRow": 1,
+    "row1": 2,
+    "file": "01.png"
+  },
+  {
+    "index": 2,
+    "name": "エレイン［契晶］",
+    "nameRow": 11,
+    "row1": 12,
+    "file": "02.png"
+  },
+  {
+    "index": 3,
+    "name": "［健美端麗］アリアンロッド",
+    "nameRow": 23,
+    "row1": 24,
+    "file": "03.png"
+  },
+  {
+    "index": 4,
+    "name": "［HELIX］テトラ",
+    "nameRow": 33,
+    "row1": 34,
+    "file": "04.png"
+  },
+  {
+    "index": 5,
+    "name": "［鮮血の愛］ディアンケヒト",
+    "nameRow": 45,
+    "row1": 46,
+    "file": "05.png"
+  },
+  {
+    "index": 6,
+    "name": "［友求の偽悪］エリス",
+    "nameRow": 55,
+    "row1": 56,
+    "file": "06.png"
+  },
+  {
+    "index": 7,
+    "name": "［雪宿の煌明］プロセルピナ",
+    "nameRow": 66,
+    "row1": 67,
+    "file": "07.png"
+  },
+  {
+    "index": 8,
+    "name": "出浦白津莉",
+    "nameRow": 77,
+    "row1": 78,
+    "file": "08.png"
+  },
+  {
+    "index": 9,
+    "name": "［蒼秘の輝姫］鬼童丸",
+    "nameRow": 87,
+    "row1": 88,
+    "file": "09.png"
+  },
+  {
+    "index": 10,
+    "name": "サタナキア［心想昇華］",
+    "nameRow": 98,
+    "row1": 99,
+    "file": "10.png"
+  },
+  {
+    "index": 11,
+    "name": "［光芒の滴り］エピメテウス",
+    "nameRow": 110,
+    "row1": 111,
+    "file": "11.png"
+  },
+  {
+    "index": 12,
+    "name": "［愛情と友情］ヘカテー",
+    "nameRow": 120,
+    "row1": 121,
+    "file": "12.png"
+  },
+  {
+    "index": 13,
+    "name": "［光醒の現神］ヤマトタケル",
+    "nameRow": 130,
+    "row1": 131,
+    "file": "13.png"
+  },
+  {
+    "index": 14,
+    "name": "オルセン",
+    "nameRow": 140,
+    "row1": 141,
+    "file": "14.png"
+  },
+  {
+    "index": 15,
+    "name": "［雪魄遊姿］ハギト",
+    "nameRow": 150,
+    "row1": 151,
+    "file": "15.png"
+  },
+  {
+    "index": 16,
+    "name": "アーシア・アルジェント",
+    "nameRow": 160,
+    "row1": 161,
+    "file": "16.png"
+  },
+  {
+    "index": 17,
+    "name": "アンラ・マンユ[純想悪]",
+    "nameRow": 170,
+    "row1": 171,
+    "file": "17.png"
+  },
+  {
+    "index": 18,
+    "name": "［愛運ぶ天使］サマエル",
+    "nameRow": 182,
+    "row1": 183,
+    "file": "18.jpg"
+  },
+  {
+    "index": 19,
+    "name": "[暁の救世姫]ロキ",
+    "nameRow": 192,
+    "row1": 193,
+    "file": "19.jpg"
+  },
+  {
+    "index": 20,
+    "name": "渡来明日香",
+    "nameRow": 203,
+    "row1": 204,
+    "file": "20.jpg"
+  },
+  {
+    "index": 21,
+    "name": "［湖畔の監視者］アザゼル",
+    "nameRow": 213,
+    "row1": 214,
+    "file": "21.png"
+  },
+  {
+    "index": 22,
+    "name": "有瀬かぐや",
+    "nameRow": 223,
+    "row1": 224,
+    "file": "22.png"
+  },
+  {
+    "index": 23,
+    "name": "［望白の花嫁］サリエル",
+    "nameRow": 233,
+    "row1": 234,
+    "file": "23.png"
+  },
+  {
+    "index": 24,
+    "name": "モイラ",
+    "nameRow": 243,
+    "row1": 244,
+    "file": "24.jpg"
+  },
+  {
+    "index": 25,
+    "name": "[天月爛漫]ディアナ",
+    "nameRow": 254,
+    "row1": 255,
+    "file": "25.jpg"
+  },
+  {
+    "index": 26,
+    "name": "［煌めく恋］チェルノボーグ",
+    "nameRow": 264,
+    "row1": 265,
+    "file": "26.jpg"
+  },
+  {
+    "index": 27,
+    "name": "［灯宴の輝王］ゼウス",
+    "nameRow": 274,
+    "row1": 275,
+    "file": "27.jpg"
+  },
+  {
+    "index": 28,
+    "name": "[中秋の名兎]オシリス",
+    "nameRow": 284,
+    "row1": 285,
+    "file": "28.jpg"
+  },
+  {
+    "index": 29,
+    "name": "［真夏の修練］アモン",
+    "nameRow": 294,
+    "row1": 295,
+    "file": "29.jpg"
+  },
+  {
+    "index": 30,
+    "name": "[初夢の護法者]ヒュプノス",
+    "nameRow": 304,
+    "row1": 305,
+    "file": "30.jpg"
+  }
+]

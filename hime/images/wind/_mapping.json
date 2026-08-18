@@ -1,0 +1,170 @@
+[
+  {
+    "index": 1,
+    "name": "［風誘う恋機］ペールビア",
+    "nameRow": 1,
+    "row1": 2,
+    "file": "01.png"
+  },
+  {
+    "index": 2,
+    "name": "［風華の祝砲］龍王",
+    "nameRow": 12,
+    "row1": 13,
+    "file": "02.png"
+  },
+  {
+    "index": 3,
+    "name": "［HELIX］バアル",
+    "nameRow": 22,
+    "row1": 23,
+    "file": "03.png"
+  },
+  {
+    "index": 4,
+    "name": "西園寺世界",
+    "nameRow": 34,
+    "row1": 35,
+    "file": "04.png"
+  },
+  {
+    "index": 5,
+    "name": "［金襴の風翅］風天獄カタス",
+    "nameRow": 44,
+    "row1": 45,
+    "file": "05.png"
+  },
+  {
+    "index": 6,
+    "name": "ポセイドン［心想昇華］",
+    "nameRow": 54,
+    "row1": 55,
+    "file": "06.png"
+  },
+  {
+    "index": 7,
+    "name": "［旻天の銀翼］シャット",
+    "nameRow": 66,
+    "row1": 67,
+    "file": "07.png"
+  },
+  {
+    "index": 8,
+    "name": "［起風の添翼］サリエル",
+    "nameRow": 77,
+    "row1": 78,
+    "file": "08.png"
+  },
+  {
+    "index": 9,
+    "name": "［夏の祭典］ツクヨミ",
+    "nameRow": 88,
+    "row1": 89,
+    "file": "09.png"
+  },
+  {
+    "index": 10,
+    "name": "［揺蕩う心］チェルノボーグ",
+    "nameRow": 98,
+    "row1": 99,
+    "file": "10.png"
+  },
+  {
+    "index": 11,
+    "name": "［新婚猫嫁］キャスパリーグ",
+    "nameRow": 109,
+    "row1": 110,
+    "file": "11.png"
+  },
+  {
+    "index": 12,
+    "name": "［ぽかぽかデイズ］ソル",
+    "nameRow": 119,
+    "row1": 120,
+    "file": "12.png"
+  },
+  {
+    "index": 13,
+    "name": "プルフラス［反心想］",
+    "nameRow": 130,
+    "row1": 131,
+    "file": "13.png"
+  },
+  {
+    "index": 14,
+    "name": "［正月満喫］ベトール",
+    "nameRow": 142,
+    "row1": 143,
+    "file": "14.png"
+  },
+  {
+    "index": 15,
+    "name": "[大人の悪戯]アルゴス",
+    "nameRow": 152,
+    "row1": 153,
+    "file": "15.png"
+  },
+  {
+    "index": 16,
+    "name": "［ずっといっしょ］ヘル",
+    "nameRow": 162,
+    "row1": 163,
+    "file": "16.jpg"
+  },
+  {
+    "index": 17,
+    "name": "［秘蜜の指導者］ユピテル",
+    "nameRow": 173,
+    "row1": 174,
+    "file": "17.png"
+  },
+  {
+    "index": 18,
+    "name": "［絢飾の聖域］フレイヤ",
+    "nameRow": 183,
+    "row1": 184,
+    "file": "18.png"
+  },
+  {
+    "index": 19,
+    "name": "[和風慶雲]ディアボロス",
+    "nameRow": 193,
+    "row1": 194,
+    "file": "19.jpg"
+  },
+  {
+    "index": 20,
+    "name": "［破魔の凛弓］フレイ",
+    "nameRow": 203,
+    "row1": 204,
+    "file": "20.jpg"
+  },
+  {
+    "index": 21,
+    "name": "[タイプΖ]風音日和",
+    "nameRow": 213,
+    "row1": 214,
+    "file": "21.jpg"
+  },
+  {
+    "index": 22,
+    "name": "[癒しの音色]女媧",
+    "nameRow": 223,
+    "row1": 224,
+    "file": "22.jpg"
+  },
+  {
+    "index": 23,
+    "name": "［闊達な映写］カスピエル",
+    "nameRow": 233,
+    "row1": 234,
+    "file": "23.jpg"
+  },
+  {
+    "index": 24,
+    "name": "［贈愛の爛漫］シャイターン",
+    "nameRow": 243,
+    "row1": 244,
+    "file": "24.jpg"
+  }
+]

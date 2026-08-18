@@ -1,1 +1,1 @@
-# <font color=green>我该如何开局</font>
+# <font color=green>我该如何开局(远古攻略仅供参考)</font>

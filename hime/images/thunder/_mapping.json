@@ -1,0 +1,233 @@
+[
+  {
+    "index": 1,
+    "name": "［雷光の新婦］姫島朱乃",
+    "nameRow": 1,
+    "row1": 2,
+    "file": "01.png"
+  },
+  {
+    "index": 2,
+    "name": "アリス",
+    "nameRow": 11,
+    "row1": 12,
+    "file": "02.png"
+  },
+  {
+    "index": 3,
+    "name": "［HELIX］アモン",
+    "nameRow": 22,
+    "row1": 23,
+    "file": "03.png"
+  },
+  {
+    "index": 4,
+    "name": "桂言葉",
+    "nameRow": 34,
+    "row1": 35,
+    "file": "04.png"
+  },
+  {
+    "index": 5,
+    "name": "オク［心想昇華］",
+    "nameRow": 44,
+    "row1": 45,
+    "file": "05.png"
+  },
+  {
+    "index": 6,
+    "name": "［神鳴の恋香］シャマシュ",
+    "nameRow": 56,
+    "row1": 57,
+    "file": "06.png"
+  },
+  {
+    "index": 7,
+    "name": "［怠惰なくノ一］ダグザ",
+    "nameRow": 67,
+    "row1": 68,
+    "file": "07.png"
+  },
+  {
+    "index": 8,
+    "name": "［閃獣の絢服］チェンシー",
+    "nameRow": 77,
+    "row1": 78,
+    "file": "08.png"
+  },
+  {
+    "index": 9,
+    "name": "［叛天轟魔］サタン",
+    "nameRow": 88,
+    "row1": 89,
+    "file": "09.png"
+  },
+  {
+    "index": 10,
+    "name": "［夏の祭典］ジークフリート",
+    "nameRow": 99,
+    "row1": 100,
+    "file": "10.png"
+  },
+  {
+    "index": 11,
+    "name": "［波戯の愛霹］シャイターン",
+    "nameRow": 109,
+    "row1": 110,
+    "file": "11.png"
+  },
+  {
+    "index": 12,
+    "name": "［学海の蕾花］アナヒット",
+    "nameRow": 119,
+    "row1": 120,
+    "file": "12.png"
+  },
+  {
+    "index": 13,
+    "name": "アルテミス［反心想］",
+    "nameRow": 131,
+    "row1": 132,
+    "file": "13.png"
+  },
+  {
+    "index": 14,
+    "name": "［雷盟の刃］鈴鹿御前",
+    "nameRow": 143,
+    "row1": 144,
+    "file": "14.png"
+  },
+  {
+    "index": 15,
+    "name": "［虹の名優］アガリアレプト",
+    "nameRow": 154,
+    "row1": 155,
+    "file": "15.png"
+  },
+  {
+    "index": 16,
+    "name": "［惑溺のふわもふ］モイラ",
+    "nameRow": 164,
+    "row1": 165,
+    "file": "16.png"
+  },
+  {
+    "index": 17,
+    "name": "［真白の造形家］フル",
+    "nameRow": 175,
+    "row1": 176,
+    "file": "17.png"
+  },
+  {
+    "index": 18,
+    "name": "［青春の恋憧］フルーレティ",
+    "nameRow": 185,
+    "row1": 186,
+    "file": "18.png"
+  },
+  {
+    "index": 19,
+    "name": "[おもてなし小兎]ベリト",
+    "nameRow": 196,
+    "row1": 197,
+    "file": "19.png"
+  },
+  {
+    "index": 20,
+    "name": "［蒼雷の庇護者］ステュクス",
+    "nameRow": 206,
+    "row1": 207,
+    "file": "20.png"
+  },
+  {
+    "index": 21,
+    "name": "［幻灯の夜華］バルドル",
+    "nameRow": 217,
+    "row1": 218,
+    "file": "21.jpg"
+  },
+  {
+    "index": 22,
+    "name": "本郷虹夢",
+    "nameRow": 228,
+    "row1": 229,
+    "file": "22.png"
+  },
+  {
+    "index": 23,
+    "name": "［神代の始祖］イヴ",
+    "nameRow": 238,
+    "row1": 239,
+    "file": "23.jpg"
+  },
+  {
+    "index": 24,
+    "name": "［学舎の青き春］ポセイドン",
+    "nameRow": 248,
+    "row1": 249,
+    "file": "24.png"
+  },
+  {
+    "index": 25,
+    "name": "[血鬼王の従者]マネス",
+    "nameRow": 258,
+    "row1": 259,
+    "file": "25.jpg"
+  },
+  {
+    "index": 26,
+    "name": "[聖夜の輝服]アポロン",
+    "nameRow": 268,
+    "row1": 269,
+    "file": "26.jpg"
+  },
+  {
+    "index": 27,
+    "name": "［タイプΔ］アストレア",
+    "nameRow": 278,
+    "row1": 279,
+    "file": "27.jpg"
+  },
+  {
+    "index": 28,
+    "name": "［快刀乱麻］カリス",
+    "nameRow": 288,
+    "row1": 289,
+    "file": "28.jpg"
+  },
+  {
+    "index": 29,
+    "name": "［ひと夏の余暇］テイア",
+    "nameRow": 298,
+    "row1": 299,
+    "file": "29.jpg"
+  },
+  {
+    "index": 30,
+    "name": "［月下の誓い］ディアボロス",
+    "nameRow": 308,
+    "row1": 309,
+    "file": "30.jpg"
+  },
+  {
+    "index": 31,
+    "name": "ヘカテー",
+    "nameRow": 318,
+    "row1": 319,
+    "file": "31.jpg"
+  },
+  {
+    "index": 32,
+    "name": "［賀びの雷霆］プルート",
+    "nameRow": 328,
+    "row1": 329,
+    "file": "32.png"
+  },
+  {
+    "index": 33,
+    "name": "［獣心通士］ネフェルトゥム",
+    "nameRow": 338,
+    "row1": 339,
+    "file": "33.jpg"
+  }
+]

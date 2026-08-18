@@ -1,0 +1,212 @@
+[
+  {
+    "index": 1,
+    "name": "［紅嫁］リアス・グレモリー",
+    "nameRow": 1,
+    "row1": 2,
+    "file": "01.png"
+  },
+  {
+    "index": 2,
+    "name": "［HELIX］アリサ",
+    "nameRow": 11,
+    "row1": 12,
+    "file": "02.png"
+  },
+  {
+    "index": 3,
+    "name": "ラジエル［心想昇華］",
+    "nameRow": 23,
+    "row1": 24,
+    "file": "03.png"
+  },
+  {
+    "index": 4,
+    "name": "［贖いの大鎌］バイアティス",
+    "nameRow": 35,
+    "row1": 36,
+    "file": "04.png"
+  },
+  {
+    "index": 5,
+    "name": "［清澄の初硯］氷天獄カタス",
+    "nameRow": 46,
+    "row1": 47,
+    "file": "05.png"
+  },
+  {
+    "index": 6,
+    "name": "百地彩夢",
+    "nameRow": 57,
+    "row1": 58,
+    "file": "06.png"
+  },
+  {
+    "index": 7,
+    "name": "［滾水の天使］ウリエル",
+    "nameRow": 67,
+    "row1": 68,
+    "file": "07.png"
+  },
+  {
+    "index": 8,
+    "name": "月待の妖兎］ガイア",
+    "nameRow": 78,
+    "row1": 79,
+    "file": "08.png"
+  },
+  {
+    "index": 9,
+    "name": "［弾けるDJ］女媧",
+    "nameRow": 88,
+    "row1": 89,
+    "file": "09.png"
+  },
+  {
+    "index": 10,
+    "name": "［義進の海姫］インウィー",
+    "nameRow": 98,
+    "row1": 99,
+    "file": "10.png"
+  },
+  {
+    "index": 11,
+    "name": "ディアナ［反心想］",
+    "nameRow": 110,
+    "row1": 111,
+    "file": "11.png"
+  },
+  {
+    "index": 12,
+    "name": "受付嬢",
+    "nameRow": 122,
+    "row1": 123,
+    "file": "12.png"
+  },
+  {
+    "index": 13,
+    "name": "［麗衣の代理人］アモン",
+    "nameRow": 133,
+    "row1": 134,
+    "file": "13.png"
+  },
+  {
+    "index": 14,
+    "name": "サーニャ",
+    "nameRow": 144,
+    "row1": 145,
+    "file": "14.png"
+  },
+  {
+    "index": 15,
+    "name": "［愛及屋烏］エレシュキガル",
+    "nameRow": 154,
+    "row1": 155,
+    "file": "15.png"
+  },
+  {
+    "index": 16,
+    "name": "［優等生の導き］シャマシュ",
+    "nameRow": 164,
+    "row1": 165,
+    "file": "16.png"
+  },
+  {
+    "index": 17,
+    "name": "［雅流欧花］セレネー",
+    "nameRow": 174,
+    "row1": 175,
+    "file": "17.png"
+  },
+  {
+    "index": 18,
+    "name": "玉泉日和子",
+    "nameRow": 184,
+    "row1": 185,
+    "file": "18.jpg"
+  },
+  {
+    "index": 19,
+    "name": "［宵夏の奉仕］フリッグ",
+    "nameRow": 194,
+    "row1": 195,
+    "file": "19.jpg"
+  },
+  {
+    "index": 20,
+    "name": "［水這艶］ニャルラトホテプ",
+    "nameRow": 204,
+    "row1": 205,
+    "file": "20.png"
+  },
+  {
+    "index": 21,
+    "name": "石川弥栄",
+    "nameRow": 214,
+    "row1": 215,
+    "file": "21.png"
+  },
+  {
+    "index": 22,
+    "name": "［薫風水花］ボレアス",
+    "nameRow": 224,
+    "row1": 225,
+    "file": "22.png"
+  },
+  {
+    "index": 23,
+    "name": "エピメテウス",
+    "nameRow": 234,
+    "row1": 235,
+    "file": "23.jpg"
+  },
+  {
+    "index": 24,
+    "name": "［可憐な舞袖］ネフティス",
+    "nameRow": 244,
+    "row1": 245,
+    "file": "24.jpg"
+  },
+  {
+    "index": 25,
+    "name": "［照座の女王］オク",
+    "nameRow": 254,
+    "row1": 255,
+    "file": "25.jpg"
+  },
+  {
+    "index": 26,
+    "name": "[タイプβ]ニンフ",
+    "nameRow": 264,
+    "row1": 265,
+    "file": "26.jpg"
+  },
+  {
+    "index": 28,
+    "name": "［悠揚至誠］フォルセティ",
+    "nameRow": 284,
+    "row1": 285,
+    "file": "28.jpg"
+  },
+  {
+    "index": 29,
+    "name": "［想いの先］ブリギッド",
+    "nameRow": 294,
+    "row1": 295,
+    "file": "29.jpg"
+  },
+  {
+    "index": 30,
+    "name": "［千姿万化の猫］ダプネー",
+    "nameRow": 304,
+    "row1": 305,
+    "file": "30.jpg"
+  },
+  {
+    "index": 31,
+    "name": "［甘き夢の魔法使い］マモン",
+    "nameRow": 313,
+    "row1": 314,
+    "file": "31.jpg"
+  }
+]

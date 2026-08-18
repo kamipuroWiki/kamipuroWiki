@@ -22,3 +22,27 @@ main{
 .hidden:hover{
    color:white !important;
 }
+
+/* 神姬キャラ詳細カード（hime/detail/*.md 用、立ち絵+本文を並べて表示） */
+.kh-char{
+	display: flex;
+	gap: 14px;
+	align-items: flex-start;
+	margin: 10px 0;
+}
+.kh-char > p{
+	/* Markdown画像 ![]() は<p>にラップされるため、余白を消してflexアイテム化する */
+	margin: 0;
+	flex: none;
+}
+.kh-char img{
+	width: 96px;
+	height: 96px;
+	border-radius: 10px;
+	flex: none;
+	box-shadow: 0 1px 4px rgba(0,0,0,.25);
+}
+.kh-char-body{
+	flex: 1 1 auto;
+	min-width: 0;
+}

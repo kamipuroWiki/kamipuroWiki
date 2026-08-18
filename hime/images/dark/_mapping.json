@@ -1,0 +1,226 @@
+[
+  {
+    "index": 1,
+    "name": "［天真の積善］闇天獄カタス",
+    "nameRow": 1,
+    "row1": 2,
+    "file": "01.png"
+  },
+  {
+    "index": 2,
+    "name": "［宵の口づけ］ボレアス",
+    "nameRow": 11,
+    "row1": 12,
+    "file": "02.png"
+  },
+  {
+    "index": 3,
+    "name": "スプンタ・マンユ［至想善］",
+    "nameRow": 21,
+    "row1": 22,
+    "file": "03.png"
+  },
+  {
+    "index": 4,
+    "name": "［HELIX］キュベレー",
+    "nameRow": 33,
+    "row1": 34,
+    "file": "04.png"
+  },
+  {
+    "index": 5,
+    "name": "［狂愛の太陽］アポロン",
+    "nameRow": 45,
+    "row1": 46,
+    "file": "05.png"
+  },
+  {
+    "index": 6,
+    "name": "［猫耳の献身］フリッグ",
+    "nameRow": 55,
+    "row1": 56,
+    "file": "06.png"
+  },
+  {
+    "index": 7,
+    "name": "［砂漠の湯あみ］ジェフティ",
+    "nameRow": 65,
+    "row1": 66,
+    "file": "07.png"
+  },
+  {
+    "index": 8,
+    "name": "［希虐のくノ一］オーディン",
+    "nameRow": 75,
+    "row1": 76,
+    "file": "08.png"
+  },
+  {
+    "index": 9,
+    "name": "アトラース-χ",
+    "nameRow": 85,
+    "row1": 86,
+    "file": "09.png"
+  },
+  {
+    "index": 10,
+    "name": "［神威明星］ルシファー",
+    "nameRow": 95,
+    "row1": 96,
+    "file": "10.png"
+  },
+  {
+    "index": 11,
+    "name": "ディアボロス［心想昇華］",
+    "nameRow": 106,
+    "row1": 107,
+    "file": "11.png"
+  },
+  {
+    "index": 12,
+    "name": "［郷影ノ星］ティシュトリヤ",
+    "nameRow": 118,
+    "row1": 119,
+    "file": "12.png"
+  },
+  {
+    "index": 13,
+    "name": "［深潜の麗女］アデーレ",
+    "nameRow": 128,
+    "row1": 129,
+    "file": "13.png"
+  },
+  {
+    "index": 14,
+    "name": "［キミの一番］キュクロプス",
+    "nameRow": 138,
+    "row1": 139,
+    "file": "14.png"
+  },
+  {
+    "index": 15,
+    "name": "［月華の舞巫女］アリサ",
+    "nameRow": 148,
+    "row1": 149,
+    "file": "15.png"
+  },
+  {
+    "index": 16,
+    "name": "［甘苦の深愛］ゼウス",
+    "nameRow": 159,
+    "row1": 160,
+    "file": "16.png"
+  },
+  {
+    "index": 17,
+    "name": "フレイ［反心想］",
+    "nameRow": 169,
+    "row1": 170,
+    "file": "17.png"
+  },
+  {
+    "index": 18,
+    "name": "［喫茶浪漫］アマナー",
+    "nameRow": 181,
+    "row1": 182,
+    "file": "18.png"
+  },
+  {
+    "index": 19,
+    "name": "羽田小鳩",
+    "nameRow": 192,
+    "row1": 193,
+    "file": "19.jpg"
+  },
+  {
+    "index": 20,
+    "name": "［夏憩う艶花］アラトロン",
+    "nameRow": 202,
+    "row1": 203,
+    "file": "20.jpg"
+  },
+  {
+    "index": 21,
+    "name": "シャルロット・イェーズ",
+    "nameRow": 212,
+    "row1": 213,
+    "file": "21.png"
+  },
+  {
+    "index": 22,
+    "name": "[帰還せし従姫]サタナキア",
+    "nameRow": 222,
+    "row1": 223,
+    "file": "22.jpg"
+  },
+  {
+    "index": 23,
+    "name": "［あなたへの文］イリス",
+    "nameRow": 232,
+    "row1": 233,
+    "file": "23.jpg"
+  },
+  {
+    "index": 24,
+    "name": "［纏払の独楽遊び］龍王",
+    "nameRow": 242,
+    "row1": 243,
+    "file": "24.jpg"
+  },
+  {
+    "index": 25,
+    "name": "［聖夜射手］アリアンロッド",
+    "nameRow": 252,
+    "row1": 253,
+    "file": "25.jpg"
+  },
+  {
+    "index": 26,
+    "name": "［愛怨の魔女］ヘーラー",
+    "nameRow": 262,
+    "row1": 263,
+    "file": "26.jpg"
+  },
+  {
+    "index": 28,
+    "name": "[怠惰の兎機]ダグザ",
+    "nameRow": 282,
+    "row1": 283,
+    "file": "28.jpg"
+  },
+  {
+    "index": 29,
+    "name": "［忠義の双弾］プルフラス",
+    "nameRow": 292,
+    "row1": 293,
+    "file": "29.jpg"
+  },
+  {
+    "index": 30,
+    "name": "マリー＆ソフィア",
+    "nameRow": 302,
+    "row1": 303,
+    "file": "30.jpg"
+  },
+  {
+    "index": 31,
+    "name": "[冷涼なる癒し手]ニケ",
+    "nameRow": 313,
+    "row1": 314,
+    "file": "31.jpg"
+  },
+  {
+    "index": 32,
+    "name": "［神幻一体］ディアボロス",
+    "nameRow": 323,
+    "row1": 324,
+    "file": "32.jpg"
+  },
+  {
+    "index": 33,
+    "name": "[ビターな海軍]アーシラト",
+    "nameRow": 333,
+    "row1": 334,
+    "file": "33.jpg"
+  }
+]
